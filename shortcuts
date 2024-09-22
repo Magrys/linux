@@ -1,0 +1,10 @@
+Run last command - !!
+Run history number (50) - !50
+
+
+ctrl + l - clear terminal
+ctrl + c - escape execution
+ctrl + d - exit, or delete the sign under the coursor when you are typing
+ctrl + a - move to the begining of a file
+ctrl + e - move to the end of a file
+ctrl + k - delete text from the cursor to the end of line
